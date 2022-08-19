@@ -9,6 +9,7 @@ The next is a list of the projects that are in this repository. This list may no
 1. Create a table
 2. New York Restaurants
 3. Codey's Confectionery: Preventing SQL Injection Attacks
+4. Cryptocurrency Exchange
 
 Codey's Confectionery: Preventing SQL Injection Attacks is writen in JavaScript but is a bunch of code that has relation with SQL injection attacks and their prevention, as its name suggests, so because of that, and because it actually has some SQL code inside, it is here in this repo. The name of this file that I'm talking about is app.js, by the way. 
 
